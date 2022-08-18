@@ -1,4 +1,4 @@
-# mythgard
+# Mythgard
 
 An interactive dashboard for finding decks with good card combinations in Mythgard.
 
